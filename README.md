@@ -1,5 +1,7 @@
 ![☕](https://img.shields.io/badge/☕-1,234-fffcf0)
                                          èmm -.-💧
                                   
-![cdbc6aa2-b4a6-4a31-8055-65129f65d90f](https://github.com/user-attachments/assets/0a47823f-bc66-4fa4-a633-a2e6984b8f98)
+<p align="center">
+  <img src="./cat.gif" width="250">
+</p>
 
